@@ -3,7 +3,7 @@ Repo made for the following issue on github/Matplotlib:
 
 I compared writing a video using Matplotlib's animation module, with writing the same Matplotlib video using my library MoviePy instead of Animation.save().
 
-See [here](https://github.com/Zulko/matplotlib_moviepy) for details and results.
+See [here](https://github.com/Zulko/moviepy_matplotlib) for details and results.
 
 It turns out that MoviePy produces an animation of better quality (Matplotlib's has
 JPEG-compression-style artefacts) and much lighter (95k for MoviePy, 456k for Matplotlib).
